@@ -22,7 +22,7 @@ html, body
 #games
 {
 	list-style-type: none;
-	margin: 0;
+	margin: 30px 0 0 0;
 	padding: 0;
 }
 
@@ -41,4 +41,10 @@ html, body
 #games li img:hover
 {
 	box-shadow: 0px 0px 40px #236;
+}
+
+p
+{
+	font-size: 1.25em;
+	padding: 20px;
 }
